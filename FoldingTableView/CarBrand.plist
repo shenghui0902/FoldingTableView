@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>国产</key>
+	<array>
+		<string>奇瑞</string>
+		<string>吉利</string>
+		<string>长安</string>
+		<string>上汽</string>
+	</array>
+	<key>韩系</key>
+	<array>
+		<string>现代</string>
+		<string>起亚</string>
+	</array>
+	<key>日系</key>
+	<array>
+		<string>尼桑</string>
+		<string>本田</string>
+		<string>丰田</string>
+	</array>
+	<key>德系</key>
+	<array>
+		<string>大众</string>
+		<string>奥迪</string>
+		<string>宝马</string>
+		<string>奔驰</string>
+	</array>
+	<key>美系</key>
+	<array>
+		<string>福特</string>
+		<string>别克</string>
+	</array>
+	<key>法系</key>
+	<array>
+		<string>标致</string>
+		<string>雪铁龙</string>
+		<string>雷诺</string>
+	</array>
+</dict>
+</plist>
